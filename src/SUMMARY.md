@@ -6,3 +6,4 @@
 - [Day 2: Dog Vocabulary](./day_2_dog_vocabulary.md)
 - [Day 3: Family](./day_3_family.md)
 - [Day 4: Alarm Clock](./day_4_alarm_clock.md)
+- [Day 5: Brocolli](./day_5_brocolli.md)
