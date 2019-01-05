@@ -8,3 +8,4 @@
 - [Day 4: Alarm Clock](./day_4_alarm_clock.md)
 - [Day 5: Brocolli](./day_5_brocolli.md)
 - [Day 6: Trust](./day_6_trust.md)
+- [Day 7: Leaf Blower](./day_7_leaf_blower.md)
