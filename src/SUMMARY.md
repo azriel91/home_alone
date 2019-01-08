@@ -11,3 +11,4 @@
 - [Day 7: Leaf Blower](./day_7_leaf_blower.md)
 - [Day 8: Salt](./day_8_salt.md)
 - [Day 9: Flowers](./day_9_flowers.md)
+- [Day 10: Sunrise](./day_10_sunrise.md)
