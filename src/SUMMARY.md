@@ -15,3 +15,4 @@
 - [Day 11: Most in the World](./day_11_most_in_the_world.md)
 - [Day 12: Taps 1](./day_12_taps_1.md)
 - [Day 13: Taps 2](./day_13_taps_2.md)
+- [Day 14: Groceries](./day_14_groceries.md)
