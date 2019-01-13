@@ -16,3 +16,4 @@
 - [Day 12: Taps 1](./day_12_taps_1.md)
 - [Day 13: Taps 2](./day_13_taps_2.md)
 - [Day 14: Groceries](./day_14_groceries.md)
+- [Day 15: Normal](./day_15_normal.md)
