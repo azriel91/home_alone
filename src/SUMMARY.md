@@ -17,3 +17,4 @@
 - [Day 13: Taps 2](./day_13_taps_2.md)
 - [Day 14: Groceries](./day_14_groceries.md)
 - [Day 15: Normal](./day_15_normal.md)
+- [Day 16: Oblivious](./day_16_oblivious.md)
