@@ -19,3 +19,4 @@
 - [Day 15: Normal](./day_15_normal.md)
 - [Day 16: Oblivious](./day_16_oblivious.md)
 - [Day 17: Chores](./day_17_chores.md)
+- [Day 18: Japanese](./day_18_japanese.md)
