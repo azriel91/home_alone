@@ -20,3 +20,4 @@
 - [Day 16: Oblivious](./day_16_oblivious.md)
 - [Day 17: Chores](./day_17_chores.md)
 - [Day 18: Japanese](./day_18_japanese.md)
+- [Day 19: Accident](./day_19_accident.md)
