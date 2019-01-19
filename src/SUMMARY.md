@@ -21,3 +21,4 @@
 - [Day 17: Chores](./day_17_chores.md)
 - [Day 18: Japanese](./day_18_japanese.md)
 - [Day 19: Accident](./day_19_accident.md)
+- [Day 20: Pineapple](./day_20_pineapple.md)
