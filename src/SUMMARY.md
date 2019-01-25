@@ -23,3 +23,4 @@
 - [Day 19: Accident](./day_19_accident.md)
 - [Day 20: Pineapple](./day_20_pineapple.md)
 - [Day 21: Balance](./day_21_balance.md)
+- [Day 22: Big](./day_22_big.md)
