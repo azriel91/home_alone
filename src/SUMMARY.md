@@ -24,3 +24,4 @@
 - [Day 20: Pineapple](./day_20_pineapple.md)
 - [Day 21: Balance](./day_21_balance.md)
 - [Day 22: Big](./day_22_big.md)
+- [Day 23: Light Speed](./day_23_light_speed.md)
