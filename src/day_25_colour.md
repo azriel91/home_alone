@@ -1,0 +1,1 @@
+![](img/day_25_colour.png)
