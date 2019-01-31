@@ -27,3 +27,4 @@
 - [Day 23: Light Speed](./day_23_light_speed.md)
 - [Day 24: Potatoes](./day_24_potatoes.md)
 - [Day 25: Colour](./day_25_colour.md)
+- [Day 26: Dust and Asher](./day_26_dust_and_asher.md)
