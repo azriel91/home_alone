@@ -28,3 +28,4 @@
 - [Day 24: Potatoes](./day_24_potatoes.md)
 - [Day 25: Colour](./day_25_colour.md)
 - [Day 26: Dust and Asher](./day_26_dust_and_asher.md)
+- [Day 27: Kombucha](./day_27_kombucha.md)
